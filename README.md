@@ -1,0 +1,2 @@
+# ann
+Using artificial neural networks with keras on a dataset for carrying out prediction and evaluating results.
